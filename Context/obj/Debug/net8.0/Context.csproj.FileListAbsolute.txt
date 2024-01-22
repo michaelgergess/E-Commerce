@@ -128,3 +128,4 @@ D:\projects\Course data structrue udemy\New folder (2)\Context\obj\Debug\net8.0\
 D:\projects\Course data structrue udemy\New folder (2)\Context\obj\Debug\net8.0\Context.pdb
 D:\projects\Course data structrue udemy\New folder (2)\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
 D:\projects\Course data structrue udemy\New folder (2)\Context\obj\Debug\net8.0\ref\Context.dll
+D:\projects\Course data structrue udemy\New folder (2)\Context\obj\Debug\net8.0\Context.sourcelink.json

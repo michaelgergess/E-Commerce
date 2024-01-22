@@ -1,0 +1,12 @@
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\bin\Debug\net8.0\E-Commerce.Infrestrature.deps.json
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\bin\Debug\net8.0\E-Commerce.Infrestrature.dll
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\bin\Debug\net8.0\E-Commerce.Infrestrature.pdb
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\E-Commerce.Infrestrature.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\E-Commerce.Infrestrature.AssemblyInfoInputs.cache
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\E-Commerce.Infrestrature.AssemblyInfo.cs
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\E-Commerce.Infrestrature.csproj.CoreCompileInputs.cache
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\E-Commerce.Infrestrature.sourcelink.json
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\E-Commerce.Infrestrature.dll
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\refint\E-Commerce.Infrestrature.dll
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\E-Commerce.Infrestrature.pdb
+D:\projects\Course data structrue udemy\New folder (2)\E-Commerce.Infrestrature\obj\Debug\net8.0\ref\E-Commerce.Infrestrature.dll
